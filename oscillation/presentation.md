@@ -65,15 +65,39 @@ AC entrains network activities
 ### structural plasticity model
 
 
+Calsium concentration based plasticity model
+
 ![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/for1.png)
 
 
+
+The neuron seeks to keep the calcium concentration (or in other words firing rate) stable, by deleting synapses or growing new elements.
+
 ![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/for2.png)
 
-### growth & homeostasis
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/homeostasis.jpg)
+
+### growth & homeostasis in my network
 
 
 ![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/tACS-0-90.png)
 
 
+### expect to see changing in local connections
 
+In DC injection case:
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/von-uniform-ex-only-ie.png)
+
+
+In AC injection case: 2 different phases (0 and 90 degrees), so 2 groups
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/tACS-0-90-connectivity.png)
+
+**very weak changes inn connectivity**
+
+
+### after-effects: enhanced alpha oscillation? Or decreased power?
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/tACS-25pA-fft-0-90.png)
