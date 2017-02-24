@@ -3,4 +3,68 @@
 ![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/tACS.png)
 
 
-# network simulation: 
+# meta-analysis: tACS increases harmonic and sub-harmonic oscillations
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/after-effects.png)
+
+# simulation in an oscillating network: network resonance
+
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/bursting.png)
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/enhancement.png)
+
+# tACS mechanism
+
+tACS, tDCS effects on single neuron: local polarization -->  increase in membrane potential --> don't trigger action potential, but influence onging activity & change firing rate
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/vm-EF.jpg)
+
+
+Mechanism: subthreshold AC injection to the neuron.
+
+sinusoidal current injection into CA1 pyramidal neuron triggered resonance
+
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/CA1-pyramidal.jpg)
+
+
+## frequency preference and changing impedence
+
+In the hippocampus, there is frequency preference in pyramidal neurons and interneurons.
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/preference.jpg)
+
+This preference is based on changing impedance to different frequency
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/impedance.jpg)
+
+# my simulation
+
+## single neuron
+### AC synchronizes membrane potential
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/single-neuron-inputAC-vm.png)
+
+### AC synchronizes firing rate
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/2.5pA-sine-rate.png)
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/9pA-sine-rate.png)
+
+## static network: random balanced network
+
+AC entrains network activities
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/2.5pA-PSTH.png)
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/9pA-PSTH.png)
+
+## plastic network
+
+
+
+
+
+
+
