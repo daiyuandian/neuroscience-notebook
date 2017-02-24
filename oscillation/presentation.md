@@ -5,7 +5,7 @@
 
 # meta-analysis: tACS increases harmonic and sub-harmonic oscillations
 
-![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/after-effects.jpg)
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/after-effects.png)
 
 # simulation in an oscillating network: network resonance
 
