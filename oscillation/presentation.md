@@ -39,7 +39,7 @@ This preference is based on changing impedance to different frequency.
 
 ![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/impedance.jpg)
 
-# my simulation
+# my simulation: 10Hz AC
 
 ## single neuron
 ### AC synchronizes membrane potential
