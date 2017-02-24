@@ -62,9 +62,18 @@ AC entrains network activities
 
 ## plastic network
 
+### structural plasticity model
 
 
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/for1.png)
 
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/for2.png)
+
+### growth & homeostasis
+
+
+![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/tACS-0-90.png)
 
 
 
