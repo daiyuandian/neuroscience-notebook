@@ -35,7 +35,7 @@ In the hippocampus, there is frequency preference in pyramidal neurons and inter
 
 ![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/preference.jpg)
 
-This preference is based on changing impedance to different frequency
+This preference is based on changing impedance to different frequency.
 
 ![alt text](https://github.com/ErbB4/neuroscience-notebook/blob/master/oscillation/impedance.jpg)
 
